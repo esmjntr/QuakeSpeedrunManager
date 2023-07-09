@@ -1,0 +1,526 @@
+{
+    "project_name": "Quake (ID1) Nightmare Run",
+    "project_id": "zz",
+    "skill": 3,
+    "last_modified": 200,
+    "maps": {
+        "e1start": {
+            "type": "episode_start",
+            "episode_name": "Episode 1 - Dimension of the Doomed"
+        },
+        "e1m1": {
+            "type": "map",
+            "map_name": "The Slipgate Complex",
+            "inherit_stats_from": "default",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        },
+        "e1m2": {
+            "type": "map",
+            "map_name": "Castle of the Damned",
+            "inherit_stats_from": "e1m1",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        },
+        "e1m3": {
+            "type": "map",
+            "map_name": "The Necropolis",
+            "inherit_stats_from": "e1m2",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        },
+        "e1m4": {
+            "type": "map",
+            "map_name": "The Grisly Grotto",
+            "inherit_stats_from": "e1m3",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        },
+        "e1m5": {
+            "type": "map",
+            "map_name": "Gloom Keep",
+            "inherit_stats_from": "e1m4",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        },
+        "e1m6": {
+            "type": "map",
+            "map_name": "The Door to Chthon",
+            "inherit_stats_from": "e1m5",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        },
+        "e1m7": {
+            "type": "map",
+            "map_name": "The House of Chthon",
+            "inherit_stats_from": "e1m6",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        },
+        "e1end": {
+            "type": "episode_end",
+            "episode_name": "Episode 1 - Dimension of the Doomed"
+        },
+        "e2start": {
+            "type": "episode_start",
+            "episode_name": "Episode 2 - The Realm of Black Magic"
+        },
+        "e2m1": {
+            "type": "map",
+            "map_name": "The Installation",
+            "inherit_stats_from": "default",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        },
+        "e2m2": {
+            "type": "map",
+            "map_name": "The Ogre Citadel",
+            "inherit_stats_from": "e2m1",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        },
+        "e2m3": {
+            "type": "map",
+            "map_name": "The Crypt of Decay",
+            "inherit_stats_from": "e2m2",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        },
+        "e2m4": {
+            "type": "map",
+            "map_name": "The Ebon Fortress",
+            "inherit_stats_from": "e2m3",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        },
+        "e2m5": {
+            "type": "map",
+            "map_name": "The Wizard's Manse",
+            "inherit_stats_from": "e2m4",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        },
+        "e2m6": {
+            "type": "map",
+            "map_name": "The Dismal Oubliette",
+            "inherit_stats_from": "e2m5",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        },
+        "e2end": {
+            "type": "episode_end",
+            "episode_name": "Episode 2 - The Realm of Black Magic"
+        },
+        "e3start": {
+            "type": "episode_start",
+            "episode_name": "Episode 3 -The Netherworld"
+        },
+        "e3m1": {
+            "type": "map",
+            "map_name": "Termination Central",
+            "inherit_stats_from": "default",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        },
+        "e3m2": {
+            "type": "map",
+            "map_name": "The Vaults of Zin",
+            "inherit_stats_from": "e3m1",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        },
+        "e3m3": {
+            "type": "map",
+            "map_name": "The Tomb of Terror",
+            "inherit_stats_from": "e3m2",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        },
+        "e3m4": {
+            "type": "map",
+            "map_name": "Satan's Dark Delight",
+            "inherit_stats_from": "e3m3",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        },
+        "e3m5": {
+            "type": "map",
+            "map_name": "The Wind Tunnels",
+            "inherit_stats_from": "e3m4",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        },
+        "e3m6": {
+            "type": "map",
+            "map_name": "Chambers of Torment",
+            "inherit_stats_from": "e3m5",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        },
+        "e3end": {
+            "type": "episode_end",
+            "episode_name": "Episode 3 - The Netherworld"
+        },
+        "e4start": {
+            "type": "episode_start",
+            "episode_name": "Episode 4 - The Elder World"
+        },
+        "e4m1": {
+            "type": "map",
+            "map_name": "The Sewage System",
+            "inherit_stats_from": "default",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        },
+        "e4m2": {
+            "type": "map",
+            "map_name": "The Tower of Despair",
+            "inherit_stats_from": "e4m1",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        },
+        "e4m3": {
+            "type": "map",
+            "map_name": "The Elder God Shrine",
+            "inherit_stats_from": "e4m2",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        },
+        "e4m4": {
+            "type": "map",
+            "map_name": "The Palace of Hate",
+            "inherit_stats_from": "e4m3",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        },
+        "e4m5": {
+            "type": "map",
+            "map_name": "Hell's Atrium",
+            "inherit_stats_from": "e4m4",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        },
+        "e4m6": {
+            "type": "map",
+            "map_name": "The Pain Maze",
+            "inherit_stats_from": "e4m5",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        },
+        "e4m7": {
+            "type": "map",
+            "map_name": "Azure Agony",
+            "inherit_stats_from": "e4m6",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        },
+        "e4end": {
+            "type": "episode_end",
+            "episode_name": "Episode 4 - The Elder World"
+        },
+        "end": {
+            "type": "map",
+            "map_name": "Shub-Niggurath's Pit",
+            "inherit_stats_from": "default",
+            "end_stats": {
+                "armor": 0,
+                "armor_type": 0,
+                "cells": 0,
+                "health": 100,
+                "nails": 0,
+                "rockets": 0,
+                "shells": 25,
+                "weapon": 2,
+                "weapons": " 2            "
+            },
+            "demo_name": "",
+            "demo_time": 0.0
+        }
+    }
+}

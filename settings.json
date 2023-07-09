@@ -1,0 +1,8 @@
+{
+    "joequakeexe": "D:\\JoeQuake\\joequake-gl.exe",
+    "joequakeparams": "-game qdqstats",
+    "qdqdir": "D:\\JoeQuake\\qdqstats\\",
+    "setskill": "yes",
+    "recordsetting": "record",
+    "restartrunkey": "b"
+}

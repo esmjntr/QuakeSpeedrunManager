@@ -1,0 +1,167 @@
+body {background-color: #170f0b; color:white;}
+
+		table {
+			border-width: 1px;
+			border-collapse:collapse;
+			background: #170f0b;
+
+		}
+		table th {
+			border:1px solid #b3adad;
+			background: #f0f0f0;
+			color: #313030;
+		}
+		table td {
+			text-align:center;
+			background: #ffffff;
+			color: #313030;
+		}
+		table td.ammocell {
+			font-size: 12px;
+			font-weight: bolder;
+			text-align:right;
+			background: #170f0b;
+			color: gold;
+		}
+		table td.weaponcell {
+			width: 48px;
+			background: #170f0b;
+		}
+		table td.weaponcelllg {
+			width: 96px;
+			background: #170f0b;
+		}
+		table td.hacell {
+			background: #170f0b;
+			font-size: 24px;
+			font-weight: bolder;
+			color: #7f3b2b;
+			width: 60px;
+			text-align: right;
+			padding-right:16px;
+		}
+		table tr.ammorow {
+			height: 16px;
+			line-height: 16px;
+		}
+		span.ammoicon {
+			vertical-align: top;
+		}
+
+		table td.haiconcell {
+			background: #170f0b;
+			font-size: 24px;
+			font-weight: bolder;
+			color: #7f0000;
+			width: 40px;
+			text-align: left;
+		}
+		table td.toggleselectedcell{
+			background: #170f0b;
+			font-size: 12px;
+			color: white;
+			text-align: right;
+			padding-right:16px;
+			vertical-align: top;
+		}
+
+		table td.timecell {
+			background: #170f0b;
+			font-size: 16px;
+			font-weight: bolder;
+			color: white;
+			width: 120px;
+			text-align: left;
+			padding-right:16px;
+		}
+		table td.timeheading {
+			background: #170f0b;
+			font-size: 12px;
+			font-weight: bolder;
+			color: white;
+			text-align: left;
+			padding-right:16px;
+		}
+		table td.statsheading {
+			background: #170f0b;
+			font-size: 12px;
+			font-weight: bolder;
+			color: white;
+			text-align: left;
+			padding-right:16px;
+		}
+		h4 {
+			color: white;
+		}
+		h5 {
+			color: gold;
+			font-variant: small-caps;
+		}
+
+		/* Modify the background color */
+.navbar-custom {
+    background-color: #271b0f;
+}
+
+a:link {
+  color: #7f3b2b;
+}
+
+/* visited link */
+a:visited {
+  color: #7f3b2b;
+}
+
+/* mouse over link */
+a:hover {
+  color: #7f3b2b;
+}
+
+/* selected link */
+a:active {
+  color: #7f3b2b;
+}
+
+span.mapline {
+	color: gold;
+	font-variant: small-caps;
+}
+
+a.projectlink {
+	color:gold;
+
+}
+
+span.prjid {
+			font-size: 14px;
+			color: white;
+}
+
+
+input.hain {
+	width: 50px;
+	font-size: large;
+	background-color: #0b2e13;
+	color: gold;
+	text-align: right;
+	border: none;
+}
+
+input.ammoin {
+	width: 50px;
+	font-size: x-small;
+	background-color: #0b2e13;
+	color: gold;
+	text-align: right;
+	border: none;
+}
+
+a.weaponselect {
+	font-size: xx-small;
+	color: gold;
+	vertical-align: top;
+}
+
+.smallbtn {
+	--bs-btn-padding-y: .1rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;
+}
