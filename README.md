@@ -15,7 +15,7 @@ A small tool for managing segmented runs of the game Quake.
  - Click Start Map on the next map to record the next demo starting with the correct stats
   
 ## What does this do?
-When you click Start Map it will create a config file calls sqmstats.cfg with the requested setting in the qsqstats folder and start Quake running that config file
+When you click Start Map it will create a config file calls sqmstats.cfg with the requested setting in the qdqstats folder and start Quake running that config file
  
 The contents of the config file will depend on the settings
 
