@@ -1,7 +1,7 @@
 # QuakeSpeedrunManager
 A small tool for managing segmented runs of the game Quake.
 
-![Quake Speedrun Manager project page](example/qsm.png)
+![Quake Speedrun Manager project page](docs/qsm.png?raw=true)
 
 ## Getting Started
 - Download from the [releases](https://github.com/esmjntr/QuakeSpeedrunManager/releases) section and extract the .zip file.
@@ -36,3 +36,9 @@ registered 1\
 sys_ticrate 0\
 temp1 0
 
+
+
+
+
+  
+  
